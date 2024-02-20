@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "787216678208",
+    "project_id": "tldd-f005a",
+    "storage_bucket": "tldd-f005a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787216678208:android:0058ce437e501226e58ea5",
+        "android_client_info": {
+          "package_name": "com.example.tldd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvvvhxGWms5iIhlx27ckiKM1sLsf4eCFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
